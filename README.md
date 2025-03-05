@@ -122,5 +122,3 @@ Las contribuciones son bienvenidas. Para colaborar:
 2. Crear una rama nueva para la funcionalidad.
 3. Enviar un pull request para revisión.
 
-## Contacto
-Para dudas o soporte, contactar a: **correo@solbus.com**
